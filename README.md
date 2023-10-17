@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Vince
+- 👀 I’m interested in cybersecurity, videogames, and cyber operations
+- 🌱 I’m currently learning about information security
+- I like to collaborate on projects that demonstrate security concepts!
